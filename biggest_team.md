@@ -31,8 +31,9 @@ Jiro:JA
 In our example, we can see that _Dallas_ can communicate with _Chain_(US)
 and _Hoxton_(EN). Moreover _Chain_ can communicate with _Sangres_(ES).
 
-If _Sangres_ wants to give an information to _Hoxton_, he can tell the
-information to _Chain_, who can give it to _Dallas_, and back to _Hoxton_.
+If _Sangres_(ES) wants to give an information to _Hoxton_(EN), he can tell the
+information to _Chain_(ES, US), who can give it to _Dallas_(US, EN),
+and then back to _Hoxton_(EN).
 
 ## Formatting
 
