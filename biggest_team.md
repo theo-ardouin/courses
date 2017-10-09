@@ -19,8 +19,20 @@ Sangres:ES
 Jiro:JA
 ```
 
+In our example, we can see that _Dallas_ can communicate with _Chain_(US)
+and _Hoxton_(EN). Moreover _Chain_ can communicate with _Sangres_(ES).
+
+If _Sangres_ wants to give an information to _Hoxton_, he can tell the
+information to _Chain_, who can give it to _Dallas_, and back to _Hoxton_.
+
+## Binary name
+
+_biggest_team_
+
+## Formatting
+
 ```
-$ ./biggest_team < persons.txt
+$ ./biggest_team persons.txt
 4
 Dallas
 Chain
