@@ -8,18 +8,14 @@ in the said team **MUST** be able to communicate with each other.
 
 As long as a pair can communicate, they can communicate with the team.
 
-You **MUST** be able to read the data from the standard input formatted as:
+You **SHOULD** be able to read the data from the standard input formatted as:
 ```
 person_name:language_id[,language_id ...]
 ```
 
-## Binary name
-
-_biggest_team_
-
 ## Example
 
-_persons.txt_:
+Using file _persons.txt_:
 ```
 Dallas:US,EN
 Chain:US,ES
