@@ -31,8 +31,6 @@ If _Sangres_(ES) wants to give an information to _Hoxton_(EN), he can tell the
 information to _Chain_(ES, US), who can give it to _Dallas_(US, EN),
 and then back to _Hoxton_(EN).
 
-## Formatting
-
 ```
 $ ./biggest_team < persons.txt
 4
