@@ -1,5 +1,12 @@
 # Pascal's Triangle
 
+## Context
+
+Your name is Pascal.
+You don't know about triangles.
+You like triangles.
+You want to learn more about them.
+
 ## Summary
 
 Your program must be able to display the sum of the first N numbers of the [pascal's triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle).
