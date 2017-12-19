@@ -7,6 +7,7 @@
 
 ## Medium
 - [Biggest team](./exs/biggest_team.md)
+- [Michel's printf](./exs/michel_printf.md) - C
 
 ---
 
