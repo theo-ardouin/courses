@@ -1,5 +1,0 @@
-# Sequence
-
-## Summary
-
-## Example

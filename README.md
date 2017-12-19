@@ -1,13 +1,19 @@
 # Exercices
 
-## Easy
+## Short
 - [Prime numbers](./exs/prime_numbers.md)
-- [Morse](./exs/morse.md)
 - [Pascal's triangle](./exs/pascal_triangle.md)
+- [Brackets](./exs/brackets.md)
+
+## Short - Medium
+- [Biggest team](./exs/biggest_team.md)
+- [Morse](./exs/morse.md)
 
 ## Medium
-- [Biggest team](./exs/biggest_team.md)
 - [Michel's printf](./exs/michel_printf.md) - C
+
+## Medium - Long
+- [Stack calculator](./exs/stack_calculator.md)
 
 ---
 

@@ -9,11 +9,11 @@ As said previoulsy, you are not very smart.
 ## Description
 
 You have different people. They speak different languages.
-From those people, the goal is to find the biggest team, considering the fact that every people in the said team **MUST** be able to communicate with each other.
+From those people, the goal is to find the biggest team, considering the fact that every people in the said team must be able to communicate with each other.
 
 As long as a pair can communicate, they can communicate with the team.
 
-You **SHOULD** be able to read the data from the standard input formatted as:
+You should be able to read the data from the standard input formatted as:
 ```
 person_name:language_id[,language_id ...]
 ```

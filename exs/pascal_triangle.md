@@ -23,17 +23,13 @@ You should be able to have a functional algorithm _at least_ until the 20th numb
 ```
 $ ./pascal 1
 1
-```
 
-```
 $ ./pascal 10
 15
-```
 
-```
 $ ./pascal -v 10
-1
-11
-121
-1331
+   1
+  1 1
+ 1 2 1
+1 3 3 1
 ```

@@ -19,9 +19,7 @@ Your program must be able to display the first N [prime numbers](https://en.wiki
 ```
 $ ./prime 1
 2
-```
 
-```
 $ ./prime 5
 2 3 5 7 11 13 17 19 23 29
 ```
