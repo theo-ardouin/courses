@@ -12,7 +12,7 @@ That is it.
 
 ## Description
 
-This program allows you to read from [standard input](https://en.wikipedia.org/wiki/Standard_streams) a [ASCII](https://en.wikipedia.org/wiki/ASCII) text and translate it into [morse code](https://en.wikipedia.org/wiki/Morse_code).
+This program allows you to read from [standard input](https://en.wikipedia.org/wiki/Standard_streams) an [ASCII](https://en.wikipedia.org/wiki/ASCII) text and translate it into [morse code](https://en.wikipedia.org/wiki/Morse_code).
 You must display the morse code on the [standard output](https://en.wikipedia.org/wiki/Standard_streams).
 
 The program stops only when the user hits ctrl-C or ctrl-D.

@@ -16,7 +16,7 @@ However, as you don't find in the [_printf_](https://linux.die.net/man/3/printf)
 ## Summary
 
 Your C function should be much like the [_printf_](https://linux.die.net/man/3/printf) function.
-It should handle the [followings specifiers](http://www.cplusplus.com/reference/cstdio/printf/):
+It must handle the [followings specifiers](http://www.cplusplus.com/reference/cstdio/printf/):
 - d
 - u
 - c
@@ -25,14 +25,14 @@ It should handle the [followings specifiers](http://www.cplusplus.com/reference/
 - X
 - %
 
-Moreover, as you are _Michel_, you will need _very_ specific specifiers for your own _printf_. Those are described here:
+Moreover, as you are _Michel_, you will need _very_ specific specifiers for your own _michel_printf_. Those are described here:
 
 | Specifier |	Output | Example |
 |-----------|--------|---------|
 | m | Unsigned michel integer, lowercase | iim |
 | M | Unsigned michel integer, uppercase | IIM |
 | b | Unsigned binary integer | 101010 |
-| r | Reversted string of characters | dlrow olleh |
+| r | Reversed string of characters | dlrow olleh |
 | t | Trimmed string of characters | hello world |
 
 However, you don't really need to implement the _flags_, _width_ or _precision_ of the standard _printf_. Those are for suckers.

@@ -5,13 +5,13 @@
 Your name is Pascal.
 You don't know about triangles.
 You like triangles.
-You want to learn more about them.
+You want to learn more about triangles.
 
 ## Summary
 
 Your program must be able to display the sum of the first N numbers of the [pascal's triangle](https://en.wikipedia.org/wiki/Pascal%27s_triangle).
 
-Moreover, with the option '_-v_', you should be able to display the complete triangle.
+Moreover, with the option '_-v_', you must be able to display the complete triangle.
 
 As always, your goal is to make a _functional_ algorithm first, and optimize afterwards.
 For instance, a [recursive](https://en.wikipedia.org/wiki/Recursion_(computer_science)) algorithm is easy to make, but usually terrible regarding performances.
