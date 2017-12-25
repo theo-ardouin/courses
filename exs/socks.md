@@ -4,7 +4,7 @@
 
 (Based on a true story!)
 
-You recevied socks for Christmas.
+You received socks for Christmas.
 A lot of socks.
 You like socks.
 But, for some reason, you just can't quite grasp the concept of pairing socks according to their patterns.
