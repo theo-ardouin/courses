@@ -12,12 +12,12 @@ That is it.
 
 ## Description
 
-This program allows you to read from [standard input](https://en.wikipedia.org/wiki/Standard_streams) an [ASCII](https://en.wikipedia.org/wiki/ASCII) text and translate it into [morse code](https://en.wikipedia.org/wiki/Morse_code).
-You must display the morse code on the [standard output](https://en.wikipedia.org/wiki/Standard_streams).
+This program allows you to read from [standard input](https://en.wikipedia.org/wiki/Standard_streams#Standard_input_(stdin)) an [ASCII](https://en.wikipedia.org/wiki/ASCII) text and translate it into [morse code](https://en.wikipedia.org/wiki/Morse_code).
+You must display the morse code on the [standard output](https://en.wikipedia.org/wiki/Standard_streams#Standard_output_(stdout)).
 
-The program stops only when the user hits ctrl-C or ctrl-D.
+The program stops only when the user hits [Ctrl-C](https://en.wikipedia.org/wiki/Signal_(IPC)#Handling_signals) or [Ctrl-D](https://en.wikipedia.org/wiki/End-of-Transmission_character).
 
-If a character is not recognized (non-translatable into morse for instance), you must display an error message on the [standard error output](https://en.wikipedia.org/wiki/Standard_streams).
+If a character is not recognized (non-translatable into morse for instance), you must display an error message on the [error output](https://en.wikipedia.org/wiki/Standard_streams#Standard_error_(stderr)).
 
 ## Example
 

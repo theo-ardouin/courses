@@ -11,7 +11,8 @@
 - [Morse](./exs/morse.md)
 
 ## Medium
-- [Michel's printf](./exs/michel_printf.md) - C
+- [Michel's printf](./exs/michel_printf.md) - C only
+- [Bitmap](./exs/bitmap.md)
 
 ## Medium - Long
 - [Stack calculator](./exs/stack_calculator.md)

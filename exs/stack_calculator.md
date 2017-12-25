@@ -44,7 +44,7 @@ The following operations are permitted:
 ## Example
 
 ```
-./stack_calculator
+$ ./stack_calculator
 > push 41
 > push 1
 > add
@@ -59,7 +59,7 @@ The following operations are permitted:
 > dump
 > [ ]
 
-./stack_calculator
+$ ./stack_calculator
 > hello
 < Unknown command: "hello"
 > add
@@ -74,7 +74,7 @@ The following operations are permitted:
 > dump
 < [ ]
 
-./stack_calculator
+$ ./stack_calculator
 > push 42 "Je suis un chat !"
 > add
 > dump

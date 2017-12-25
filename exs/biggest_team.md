@@ -13,7 +13,7 @@ From those people, the goal is to find the biggest team, considering the fact th
 
 As long as a pair can communicate, they can communicate with the team.
 
-You should be able to read the data from the standard input formatted as:
+You should be able to read the data from the [standard input](https://en.wikipedia.org/wiki/Standard_streams#Standard_input_(stdin)) formatted as:
 ```
 person_name:language_id[,language_id ...]
 ```
