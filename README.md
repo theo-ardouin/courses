@@ -4,6 +4,7 @@
 - [Prime numbers](./exs/prime_numbers.md)
 - [Pascal's triangle](./exs/pascal_triangle.md)
 - [Brackets](./exs/brackets.md)
+- [Socks](./exs/socks.md)
 
 ## Short - Medium
 - [Biggest team](./exs/biggest_team.md)
