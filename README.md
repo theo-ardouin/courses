@@ -1,21 +1,21 @@
 # Exercices
 
 ## Short
-- [Prime numbers](./exs/prime_numbers.md)
-- [Pascal's triangle](./exs/pascal_triangle.md)
-- [Brackets](./exs/brackets.md)
-- [Socks](./exs/socks.md)
+- [Prime numbers](./prjs/prime_numbers.md)
+- [Pascal's triangle](./prjs/pascal_triangle.md)
+- [Brackets](./prjs/brackets.md)
+- [Socks](./prjs/socks.md)
 
 ## Short - Medium
-- [Biggest team](./exs/biggest_team.md)
-- [Morse](./exs/morse.md)
+- [Biggest team](./prjs/biggest_team.md)
+- [Morse](./prjs/morse.md)
 
 ## Medium
-- [Michel's printf](./exs/michel_printf.md) - C only
-- [Bitmap](./exs/bitmap.md)
+- [Michel's printf](./prjs/michel_printf.md) - C only
+- [Bitmap](./prjs/bitmap.md)
 
 ## Medium - Long
-- [Stack calculator](./exs/stack_calculator.md)
+- [Stack calculator](./prjs/stack_calculator.md)
 
 ---
 
