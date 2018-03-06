@@ -1,5 +1,8 @@
 # alphabet
-Write a C function that takes an int flag that toggle [lower/upper case](https://en.wikipedia.org/wiki/Letter_case) and display on [stdout](https://en.wikipedia.org/wiki/C_file_input/output#Variables) the alphabet followed by a [newline](https://en.wikipedia.org/wiki/Newline)
+Write a C function that displays the alphabet followed by a [newline](https://en.wikipedia.org/wiki/Newline), considering a flag that toggle [lower or upper case](https://en.wikipedia.org/wiki/Letter_case)
+
+### Prototype
+`void alphabet(int)`
 
 ### Example:
 ```
@@ -18,7 +21,10 @@ Write a C function that takes an int flag that toggle [lower/upper case](https:/
 
 
 # int_to_bin
-Write a C function that takes an int and display its [binary representation](https://en.wikipedia.org/wiki/Binary_number) on [stdout](https://en.wikipedia.org/wiki/C_file_input/output#Variables) followed by a [newline](https://en.wikipedia.org/wiki/Newline)
+Write a C function that displays a [binary representation](https://en.wikipedia.org/wiki/Binary_number) of a number followed by a [newline](https://en.wikipedia.org/wiki/Newline)
+
+### Prototype
+`void int_to_bin(int)`
 
 ### Example:
 ```
