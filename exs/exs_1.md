@@ -1,17 +1,23 @@
 # alphabet
-Write a C function that takes no parameter and display on [stdout](https://en.wikipedia.org/wiki/C_file_input/output#Variables) the alphabet followed by a [newline](https://en.wikipedia.org/wiki/Newline)
+Write a C function that takes an int flag that toggle [lower/upper case](https://en.wikipedia.org/wiki/Letter_case) and display on [stdout](https://en.wikipedia.org/wiki/C_file_input/output#Variables) the alphabet followed by a [newline](https://en.wikipedia.org/wiki/Newline)
 
 ### Example:
 ```
-> alphabet();
+> alphabet(0);
 < abcdefghijklmnopqrstuvwxyz
+
+> alphabet(1);
+< ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+> alphabet(42);
+< ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ```
 
 ### Functions
 * `int putchar(int)`
 
 ### Hints
-Don't be stupid
+* None
 
 
 # int_to_bin
@@ -36,4 +42,4 @@ Write a C function that takes an int and display its [binary representation](htt
 * Arrays _DO NOT_ exists, too bad :)
 
 ### Hints
-[Recursive](https://en.wikipedia.org/wiki/Recursion_(computer_science)) might be the answer
+* [Recursive](https://en.wikipedia.org/wiki/Recursion_(computer_science))
