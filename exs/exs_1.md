@@ -16,9 +16,6 @@ Write a C function that takes an int flag that toggle [lower/upper case](https:/
 ### Functions
 * `int putchar(int)`
 
-### Hints
-* None
-
 
 # int_to_bin
 Write a C function that takes an int and display its [binary representation](https://en.wikipedia.org/wiki/Binary_number) on [stdout](https://en.wikipedia.org/wiki/C_file_input/output#Variables) followed by a [newline](https://en.wikipedia.org/wiki/Newline)
