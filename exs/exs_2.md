@@ -2,7 +2,7 @@
 Write a C function that finds a substring without considering the [case](https://en.wikipedia.org/wiki/Letter_case) and returns the position of the first occurence, -1 otherwise.
 
 ### Prototype
-`size_t substr(const char str[], const char substring[])`
+`int substr(const char str[], const char substring[])`
 
 ### Example:
 ```
@@ -21,7 +21,7 @@ Write a C function that finds a substring without considering the [case](https:/
 
 
 # capitalize
-Write a C function that displays and capitalize the first letter of every word followed by a [newline](https://en.wikipedia.org/wiki/Newline). The string must be trimmed
+Write a C function that displays and capitalize the first letter of every word, followed by a [newline](https://en.wikipedia.org/wiki/Newline) at the very end. The string must be trimmed
 
 ### Prototype
 `void capitalize(const char str[])`
