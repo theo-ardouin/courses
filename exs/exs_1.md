@@ -2,7 +2,7 @@
 Write a C function that displays the alphabet followed by a [newline](https://en.wikipedia.org/wiki/Newline), considering a flag that toggle [lower or upper case](https://en.wikipedia.org/wiki/Letter_case)
 
 ### Prototype
-`void alphabet(int)`
+`void alphabet(int flag)`
 
 ### Example:
 ```
@@ -24,7 +24,7 @@ Write a C function that displays the alphabet followed by a [newline](https://en
 Write a C function that displays a [binary representation](https://en.wikipedia.org/wiki/Binary_number) of a number followed by a [newline](https://en.wikipedia.org/wiki/Newline)
 
 ### Prototype
-`void int_to_bin(int)`
+`void int_to_bin(int number)`
 
 ### Example:
 ```

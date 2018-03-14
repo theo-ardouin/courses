@@ -32,8 +32,9 @@ Moreover, as you are _Michel_, you will need _very_ specific specifiers for your
 | m | Unsigned michel integer, lowercase | iim |
 | M | Unsigned michel integer, uppercase | IIM |
 | b | Unsigned binary integer | 101010 |
-| r | Reversed string of characters | dlrow olleh |
-| t | Trimmed string of characters | hello world |
+| r | Reversed string | dlrow olleh |
+| t | Trimmed string | hello world |
+| K | Capitalize string | Hello World |
 
 However, you don't really need to implement the _flags_, _width_ or _precision_ of the standard _printf_. Those are for suckers.
 
@@ -46,6 +47,6 @@ michel_printf("%s %d %u %b %x %X %m\n", "42", 42, 42, 42, 42, 42, 42);
 ```
 
 ```
-michel_printf("%s - %r - %t\n", "hello world", "dlrow olleh", "\t hello world\t ");
-(stdout) hello world - hello world - hello world
+michel_printf("%s - %r - %t - %K\n", "hello world", "dlrow olleh", "\t hello world\t ", "hello world");
+(stdout) hello world - hello world - hello world - Hello World
 ```
