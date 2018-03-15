@@ -11,8 +11,9 @@
 - [Morse](./prjs/morse.md)
 
 ## Medium
-- [Michel's printf](./prjs/michel_printf.md) - C only
-- [Bitmap](./prjs/bitmap.md)
+- [Michel's printf](./prjs/michel_printf.md)
+- [I'm Blue Da Ba De Da Ba Di](./prjs/data_bitmap.md)
+- [XML To Bitmap](./prjs/xml_bitmap.md)
 
 ## Medium - Long
 - [Stack calculator](./prjs/stack_calculator.md)

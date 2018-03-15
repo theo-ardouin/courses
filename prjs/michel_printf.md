@@ -4,8 +4,8 @@
 
 - Language: C
 - Forbidden functions: printf() and alike
-- [What are variadic functions ?](https://en.wikipedia.org/wiki/Variadic_function)
-- [What is ASCII ?](https://en.wikipedia.org/wiki/ASCII)
+- [What are variadic functions?](https://en.wikipedia.org/wiki/Variadic_function)
+- [What is ASCII?](https://en.wikipedia.org/wiki/ASCII)
 
 ## Context
 
@@ -23,6 +23,7 @@ It must handle the [followings specifiers](http://www.cplusplus.com/reference/cs
 - s
 - x
 - X
+- f
 - %
 
 Moreover, as you are _Michel_, you will need _very_ specific specifiers for your own _michel_printf_. Those are described here:
