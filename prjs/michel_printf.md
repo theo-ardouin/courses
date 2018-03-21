@@ -23,7 +23,6 @@ It must handle the [followings specifiers](http://www.cplusplus.com/reference/cs
 - s
 - x
 - X
-- f
 - %
 
 Moreover, as you are _Michel_, you will need _very_ specific specifiers for your own _michel_printf_. Those are described here:
