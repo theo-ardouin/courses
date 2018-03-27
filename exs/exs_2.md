@@ -46,7 +46,7 @@ Write a C function that displays and capitalize the first letter of every word, 
 
 
 # sort_this
-Write a C function that sorts an array from a non-sorted array followed by a [newline](https://en.wikipedia.org/wiki/Newline)
+Write a C function that sorts an array from a non-sorted array
 
 ### Prototype
 `void sort_this(int array[], unsigned length)`
